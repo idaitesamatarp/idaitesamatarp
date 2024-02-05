@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @idaitesamatarp
-- 👀 I’m interested in Web Developer like Frontend
-- 🌱 I’m currently learning PHP, ReactJS
+- 👋 Hi, I’m Muhammad Setiadi Pratama
+- 👀 I’m interested in Frontend Developer
+- 🌱 I’m currently learning PHP, ReactJS, NextJS, Flutter
 - :office: I previously work at PT. Multindo Auto Finance (IT - CORE APPLICATION)
+- :office: I currently work at CV. PUTMASARI PRATAMA (IT STAFT)
 - 📫 How to reach me https://www.linkedin.com/in/muhammad-setiadi-pratama-51219b1b4
 <!--- 💞️ I’m looking to collaborate on ... --->
 
