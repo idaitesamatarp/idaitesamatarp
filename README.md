@@ -2,7 +2,8 @@
 - 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning PHP, ReactJS, NextJS, Flutter
 - :office: I previously work at PT. Multindo Auto Finance (IT - CORE APPLICATION)
-- :office: I currently work at CV. PUTMASARI PRATAMA (IT STAFT)
+- :office: I previously work at CV. PUTMASARI PRATAMA (IT STAFT)
+- :office: I currently Open to Work for Frontend Web Development
 - 📫 How to reach me https://www.linkedin.com/in/muhammad-setiadi-pratama-51219b1b4
 <!--- 💞️ I’m looking to collaborate on ... --->
 
