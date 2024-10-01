@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Muhammad Setiadi Pratama
 - 👀 I’m interested in Frontend Web Developer
-- 🌱 I’m currently use some technology like PHP, Laravel, CodeIgniter, JavaScript, jQuery, React.js, Next.js, MySQL, and SQL. 
 - :office: I previously work at CV. PUTMASARI PRATAMA (IT STAFT)
 - 📫 How to reach me https://www.linkedin.com/in/muhammad-setiadi-pratama
 <!--- 💞️ I’m looking to collaborate on ... --->
